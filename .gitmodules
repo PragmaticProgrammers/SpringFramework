@@ -4,3 +4,6 @@
 [submodule "SpringFramework-boilerplate"]
 	path = SpringFramework-boilerplate
 	url = https://github.com/PragmaticProgrammers/SpringFramework-boilerplate
+[submodule "SpringFrameworkStudy"]
+	path = SpringFrameworkStudy
+	url = https://github.com/PragmaticProgrammers/SpringFrameworkStudy
