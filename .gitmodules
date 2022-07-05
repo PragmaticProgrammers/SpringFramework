@@ -1,3 +1,6 @@
 [submodule "SpringFramework-CreateSpringDIContainer"]
 	path = SpringFramework-CreateSpringDIContainer
 	url = https://github.com/PragmaticProgrammers/SpringFramework-CreateSpringDIContainer
+[submodule "SpringFramework-boilerplate"]
+	path = SpringFramework-boilerplate
+	url = https://github.com/PragmaticProgrammers/SpringFramework-boilerplate
